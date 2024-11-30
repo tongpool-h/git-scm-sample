@@ -23,3 +23,8 @@ Message | Keyword - Add, Create, Update, Modify, Delete and Fix
 7. Viewing the Commit History
 $ git log
 $ git log --oneline  *** Recommender
+
+8. Git to undo changes to a project code and history
+$ git revert <hash number>
+
+9. 
