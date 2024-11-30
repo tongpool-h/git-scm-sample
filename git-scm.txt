@@ -19,3 +19,7 @@ $ git add .
 6. Git commit
 $ git commit -m "<message>" 
 Message | Keyword - Add, Create, Update, Modify, Delete and Fix
+
+7. Viewing the Commit History
+$ git log
+$ git log --oneline  *** Recommender
