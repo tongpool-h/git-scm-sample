@@ -27,4 +27,7 @@ $ git log --oneline  *** Recommender
 8. Git to undo changes to a project code and history
 $ git revert <hash number>
 
-9. 
+9. Git branch
+$ git branch
+$ git branch itd
+$ git switch itd
